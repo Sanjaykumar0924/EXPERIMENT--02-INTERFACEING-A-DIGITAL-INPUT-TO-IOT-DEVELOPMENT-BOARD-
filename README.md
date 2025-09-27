@@ -117,8 +117,9 @@ else
 
  EXP WITH ID CARD
 
- !width 200px [sanjay led iot](https://github.com/user-attachments/assets/1c424d8a-5e3c-473c-8f08-7875549cfe07)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1c424d8a-5e3c-473c-8f08-7875549cfe07" width="400">
+</p>
 
  
 ## Result :
