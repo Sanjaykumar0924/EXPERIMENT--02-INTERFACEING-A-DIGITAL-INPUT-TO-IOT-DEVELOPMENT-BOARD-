@@ -117,7 +117,7 @@ else
 
  EXP WITH ID CARD
 
- ![sanjay led iot](https://github.com/user-attachments/assets/1c424d8a-5e3c-473c-8f08-7875549cfe07)
+ !width 200px [sanjay led iot](https://github.com/user-attachments/assets/1c424d8a-5e3c-473c-8f08-7875549cfe07)
 
 
  
