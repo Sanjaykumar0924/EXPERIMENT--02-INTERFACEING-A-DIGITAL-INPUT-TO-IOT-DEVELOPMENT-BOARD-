@@ -115,6 +115,11 @@ else
  
  ![WhatsApp Image 2025-03-12 at 11 28 21_58dfccc8](https://github.com/user-attachments/assets/3af49a16-9307-4c27-b2ca-db022fce158e)
 
+ EXP WITH ID CARD
+
+ ![sanjay led iot](https://github.com/user-attachments/assets/1c424d8a-5e3c-473c-8f08-7875549cfe07)
+
+
  
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
