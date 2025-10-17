@@ -314,7 +314,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
 ![IOTEXP-2IMAGE2](https://github.com/user-attachments/assets/f30a8cf8-4520-4087-a416-f02221f89302)
 ![IOTEXP-2IMAGE3](https://github.com/user-attachments/assets/3880d768-b121-4f4c-a5a8-2579fa383671)
-![IOT EXP-2IMAGE](https://github.com/user-attachments/assets/16949ad2-fb39-4d2c-aff3-e518ee0803c1)
+![sanjay led iot](https://github.com/user-attachments/assets/ec9256df-4fad-455a-90df-716874559d87)
 
 
 ## Result :
